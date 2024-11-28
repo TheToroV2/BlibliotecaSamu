@@ -1,70 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\",
+  "WorkspaceRootPath": "C:\\Users\\Samuel\\Desktop\\BibliotecaSamu\\BlibliotecaSamu\\BibliotecaVS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0E4DEED-89E1-4BC1-B660-2D31AD295250}|mst_pruebas\\mst_pruebas.csproj|c:\\users\\samuel\\desktop\\grupo 6 - 8 biblioteca\\biblioteca\\biblioteca\\bibliotecavs\\mst_pruebas\\repositorios\\usuariospruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0E4DEED-89E1-4BC1-B660-2D31AD295250}|mst_pruebas\\mst_pruebas.csproj|solutionrelative:mst_pruebas\\repositorios\\usuariospruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4239837B-BAA5-45BB-81D8-648EDA2861BE}|asp_presentacion\\asp_presentacion.csproj|c:\\users\\samuel\\desktop\\bibliotecasamu\\blibliotecasamu\\bibliotecavs\\asp_presentacion\\pages\\ventanas\\libros\\libros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4239837B-BAA5-45BB-81D8-648EDA2861BE}|asp_presentacion\\asp_presentacion.csproj|solutionrelative:asp_presentacion\\pages\\ventanas\\libros\\libros.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0E4DEED-89E1-4BC1-B660-2D31AD295250}|mst_pruebas\\mst_pruebas.csproj|c:\\users\\samuel\\desktop\\grupo 6 - 8 biblioteca\\biblioteca\\biblioteca\\bibliotecavs\\mst_pruebas\\repositorios\\prestamospruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0E4DEED-89E1-4BC1-B660-2D31AD295250}|mst_pruebas\\mst_pruebas.csproj|solutionrelative:mst_pruebas\\repositorios\\prestamospruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D15B3BA7-DF9D-4E5C-92C0-41D9F3C1DBDC}|asp_prueba\\asp_prueba.csproj|c:\\users\\samuel\\desktop\\bibliotecasamu\\blibliotecasamu\\bibliotecavs\\asp_prueba\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15B3BA7-DF9D-4E5C-92C0-41D9F3C1DBDC}|asp_prueba\\asp_prueba.csproj|solutionrelative:asp_prueba\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E0E4DEED-89E1-4BC1-B660-2D31AD295250}|mst_pruebas\\mst_pruebas.csproj|c:\\users\\samuel\\desktop\\grupo 6 - 8 biblioteca\\biblioteca\\biblioteca\\bibliotecavs\\mst_pruebas\\repositorios\\personaspruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0E4DEED-89E1-4BC1-B660-2D31AD295250}|mst_pruebas\\mst_pruebas.csproj|solutionrelative:mst_pruebas\\repositorios\\personaspruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0E4DEED-89E1-4BC1-B660-2D31AD295250}|mst_pruebas\\mst_pruebas.csproj|c:\\users\\samuel\\desktop\\grupo 6 - 8 biblioteca\\biblioteca\\biblioteca\\bibliotecavs\\mst_pruebas\\repositorios\\notaspruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0E4DEED-89E1-4BC1-B660-2D31AD295250}|mst_pruebas\\mst_pruebas.csproj|solutionrelative:mst_pruebas\\repositorios\\notaspruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0E4DEED-89E1-4BC1-B660-2D31AD295250}|mst_pruebas\\mst_pruebas.csproj|c:\\users\\samuel\\desktop\\grupo 6 - 8 biblioteca\\biblioteca\\biblioteca\\bibliotecavs\\mst_pruebas\\repositorios\\librospruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0E4DEED-89E1-4BC1-B660-2D31AD295250}|mst_pruebas\\mst_pruebas.csproj|solutionrelative:mst_pruebas\\repositorios\\librospruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0E4DEED-89E1-4BC1-B660-2D31AD295250}|mst_pruebas\\mst_pruebas.csproj|c:\\users\\samuel\\desktop\\grupo 6 - 8 biblioteca\\biblioteca\\biblioteca\\bibliotecavs\\mst_pruebas\\repositorios\\estadospruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0E4DEED-89E1-4BC1-B660-2D31AD295250}|mst_pruebas\\mst_pruebas.csproj|solutionrelative:mst_pruebas\\repositorios\\estadospruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E0E4DEED-89E1-4BC1-B660-2D31AD295250}|mst_pruebas\\mst_pruebas.csproj|c:\\users\\samuel\\desktop\\grupo 6 - 8 biblioteca\\biblioteca\\biblioteca\\bibliotecavs\\mst_pruebas\\repositorios\\detallespruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E0E4DEED-89E1-4BC1-B660-2D31AD295250}|mst_pruebas\\mst_pruebas.csproj|solutionrelative:mst_pruebas\\repositorios\\detallespruebaunitaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3187398-BA92-4A15-8279-F93E248F1B70}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\samuel\\desktop\\grupo 6 - 8 biblioteca\\biblioteca\\biblioteca\\bibliotecavs\\lib_repositorios\\implementaciones\\usuariosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3187398-BA92-4A15-8279-F93E248F1B70}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\usuariosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3187398-BA92-4A15-8279-F93E248F1B70}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\samuel\\desktop\\grupo 6 - 8 biblioteca\\biblioteca\\biblioteca\\bibliotecavs\\lib_repositorios\\implementaciones\\prestamosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3187398-BA92-4A15-8279-F93E248F1B70}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\prestamosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3187398-BA92-4A15-8279-F93E248F1B70}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\samuel\\desktop\\grupo 6 - 8 biblioteca\\biblioteca\\biblioteca\\bibliotecavs\\lib_repositorios\\implementaciones\\personasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3187398-BA92-4A15-8279-F93E248F1B70}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\personasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3187398-BA92-4A15-8279-F93E248F1B70}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\samuel\\desktop\\grupo 6 - 8 biblioteca\\biblioteca\\biblioteca\\bibliotecavs\\lib_repositorios\\interfaces\\iprestamosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3187398-BA92-4A15-8279-F93E248F1B70}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iprestamosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3187398-BA92-4A15-8279-F93E248F1B70}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\samuel\\desktop\\grupo 6 - 8 biblioteca\\biblioteca\\biblioteca\\bibliotecavs\\lib_repositorios\\implementaciones\\notasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3187398-BA92-4A15-8279-F93E248F1B70}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\notasrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3187398-BA92-4A15-8279-F93E248F1B70}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\samuel\\desktop\\grupo 6 - 8 biblioteca\\biblioteca\\biblioteca\\bibliotecavs\\lib_repositorios\\implementaciones\\librosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3187398-BA92-4A15-8279-F93E248F1B70}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\librosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3187398-BA92-4A15-8279-F93E248F1B70}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\samuel\\desktop\\grupo 6 - 8 biblioteca\\biblioteca\\biblioteca\\bibliotecavs\\lib_repositorios\\implementaciones\\estadosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3187398-BA92-4A15-8279-F93E248F1B70}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\estadosrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3187398-BA92-4A15-8279-F93E248F1B70}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\samuel\\desktop\\grupo 6 - 8 biblioteca\\biblioteca\\biblioteca\\bibliotecavs\\lib_repositorios\\implementaciones\\detallesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3187398-BA92-4A15-8279-F93E248F1B70}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\detallesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C3187398-BA92-4A15-8279-F93E248F1B70}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\samuel\\desktop\\grupo 6 - 8 biblioteca\\biblioteca\\biblioteca\\bibliotecavs\\lib_repositorios\\interfaces\\idetallesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C3187398-BA92-4A15-8279-F93E248F1B70}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\idetallesrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D15B3BA7-DF9D-4E5C-92C0-41D9F3C1DBDC}|asp_prueba\\asp_prueba.csproj|c:\\users\\samuel\\desktop\\bibliotecasamu\\blibliotecasamu\\bibliotecavs\\asp_prueba\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D15B3BA7-DF9D-4E5C-92C0-41D9F3C1DBDC}|asp_prueba\\asp_prueba.csproj|solutionrelative:asp_prueba\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -78,200 +26,46 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UsuariosPruebaUnitaria.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\mst_pruebas\\Repositorios\\UsuariosPruebaUnitaria.cs",
-              "RelativeDocumentMoniker": "mst_pruebas\\Repositorios\\UsuariosPruebaUnitaria.cs",
-              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\mst_pruebas\\Repositorios\\UsuariosPruebaUnitaria.cs",
-              "RelativeToolTip": "mst_pruebas\\Repositorios\\UsuariosPruebaUnitaria.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBkAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T00:17:37.502Z",
+              "Title": "Libros.cshtml",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\BibliotecaSamu\\BlibliotecaSamu\\BibliotecaVS\\asp_presentacion\\Pages\\Ventanas\\Libros\\Libros.cshtml",
+              "RelativeDocumentMoniker": "asp_presentacion\\Pages\\Ventanas\\Libros\\Libros.cshtml",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\BibliotecaSamu\\BlibliotecaSamu\\BibliotecaVS\\asp_presentacion\\Pages\\Ventanas\\Libros\\Libros.cshtml*",
+              "RelativeToolTip": "asp_presentacion\\Pages\\Ventanas\\Libros\\Libros.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T11:29:35.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PrestamosPruebaUnitaria.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\mst_pruebas\\Repositorios\\PrestamosPruebaUnitaria.cs",
-              "RelativeDocumentMoniker": "mst_pruebas\\Repositorios\\PrestamosPruebaUnitaria.cs",
-              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\mst_pruebas\\Repositorios\\PrestamosPruebaUnitaria.cs",
-              "RelativeToolTip": "mst_pruebas\\Repositorios\\PrestamosPruebaUnitaria.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAVAAAA",
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\BibliotecaSamu\\BlibliotecaSamu\\BibliotecaVS\\asp_prueba\\Startup.cs",
+              "RelativeDocumentMoniker": "asp_prueba\\Startup.cs",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\BibliotecaSamu\\BlibliotecaSamu\\BibliotecaVS\\asp_prueba\\Startup.cs",
+              "RelativeToolTip": "asp_prueba\\Startup.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwCkAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T00:17:27.347Z"
+              "WhenOpened": "2024-11-28T11:21:34.996Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PersonasPruebaUnitaria.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\mst_pruebas\\Repositorios\\PersonasPruebaUnitaria.cs",
-              "RelativeDocumentMoniker": "mst_pruebas\\Repositorios\\PersonasPruebaUnitaria.cs",
-              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\mst_pruebas\\Repositorios\\PersonasPruebaUnitaria.cs",
-              "RelativeToolTip": "mst_pruebas\\Repositorios\\PersonasPruebaUnitaria.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAVAAAA",
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\BibliotecaSamu\\BlibliotecaSamu\\BibliotecaVS\\asp_prueba\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "asp_prueba\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\Samuel\\Desktop\\BibliotecaSamu\\BlibliotecaSamu\\BibliotecaVS\\asp_prueba\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "asp_prueba\\Controllers\\TokenController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAIAzwEIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T00:17:23.107Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LibrosPruebaUnitaria.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\mst_pruebas\\Repositorios\\LibrosPruebaUnitaria.cs",
-              "RelativeDocumentMoniker": "mst_pruebas\\Repositorios\\LibrosPruebaUnitaria.cs",
-              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\mst_pruebas\\Repositorios\\LibrosPruebaUnitaria.cs",
-              "RelativeToolTip": "mst_pruebas\\Repositorios\\LibrosPruebaUnitaria.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T00:17:13.47Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NotasPruebaUnitaria.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\mst_pruebas\\Repositorios\\NotasPruebaUnitaria.cs",
-              "RelativeDocumentMoniker": "mst_pruebas\\Repositorios\\NotasPruebaUnitaria.cs",
-              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\mst_pruebas\\Repositorios\\NotasPruebaUnitaria.cs",
-              "RelativeToolTip": "mst_pruebas\\Repositorios\\NotasPruebaUnitaria.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T00:17:11.852Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DetallesPruebaUnitaria.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\mst_pruebas\\Repositorios\\DetallesPruebaUnitaria.cs",
-              "RelativeDocumentMoniker": "mst_pruebas\\Repositorios\\DetallesPruebaUnitaria.cs",
-              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\mst_pruebas\\Repositorios\\DetallesPruebaUnitaria.cs",
-              "RelativeToolTip": "mst_pruebas\\Repositorios\\DetallesPruebaUnitaria.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T00:16:35.844Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PersonasRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_repositorios\\Implementaciones\\PersonasRepositorio.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\PersonasRepositorio.cs",
-              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_repositorios\\Implementaciones\\PersonasRepositorio.cs",
-              "RelativeToolTip": "lib_repositorios\\Implementaciones\\PersonasRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T00:14:13.422Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PrestamosRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_repositorios\\Implementaciones\\PrestamosRepositorio.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\PrestamosRepositorio.cs",
-              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_repositorios\\Implementaciones\\PrestamosRepositorio.cs",
-              "RelativeToolTip": "lib_repositorios\\Implementaciones\\PrestamosRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T00:14:21.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "EstadosPruebaUnitaria.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\mst_pruebas\\Repositorios\\EstadosPruebaUnitaria.cs",
-              "RelativeDocumentMoniker": "mst_pruebas\\Repositorios\\EstadosPruebaUnitaria.cs",
-              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\mst_pruebas\\Repositorios\\EstadosPruebaUnitaria.cs",
-              "RelativeToolTip": "mst_pruebas\\Repositorios\\EstadosPruebaUnitaria.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T00:08:30.419Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IPrestamosRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_repositorios\\Interfaces\\IPrestamosRepositorio.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IPrestamosRepositorio.cs",
-              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_repositorios\\Interfaces\\IPrestamosRepositorio.cs",
-              "RelativeToolTip": "lib_repositorios\\Interfaces\\IPrestamosRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T00:16:17.806Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UsuariosRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_repositorios\\Implementaciones\\UsuariosRepositorio.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\UsuariosRepositorio.cs",
-              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_repositorios\\Implementaciones\\UsuariosRepositorio.cs",
-              "RelativeToolTip": "lib_repositorios\\Implementaciones\\UsuariosRepositorio.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBQAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T00:14:27.565Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "NotasRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_repositorios\\Implementaciones\\NotasRepositorio.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\NotasRepositorio.cs",
-              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_repositorios\\Implementaciones\\NotasRepositorio.cs",
-              "RelativeToolTip": "lib_repositorios\\Implementaciones\\NotasRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T00:14:06.918Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LibrosRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_repositorios\\Implementaciones\\LibrosRepositorio.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\LibrosRepositorio.cs",
-              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_repositorios\\Implementaciones\\LibrosRepositorio.cs",
-              "RelativeToolTip": "lib_repositorios\\Implementaciones\\LibrosRepositorio.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABQAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T00:14:00.838Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EstadosRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_repositorios\\Implementaciones\\EstadosRepositorio.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\EstadosRepositorio.cs",
-              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_repositorios\\Implementaciones\\EstadosRepositorio.cs",
-              "RelativeToolTip": "lib_repositorios\\Implementaciones\\EstadosRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T00:13:51.218Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DetallesRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_repositorios\\Implementaciones\\DetallesRepositorio.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\DetallesRepositorio.cs",
-              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_repositorios\\Implementaciones\\DetallesRepositorio.cs",
-              "RelativeToolTip": "lib_repositorios\\Implementaciones\\DetallesRepositorio.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAAABQAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T00:13:03.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IDetallesRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_repositorios\\Interfaces\\IDetallesRepositorio.cs",
-              "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IDetallesRepositorio.cs",
-              "ToolTip": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_repositorios\\Interfaces\\IDetallesRepositorio.cs",
-              "RelativeToolTip": "lib_repositorios\\Interfaces\\IDetallesRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T00:13:02.336Z"
+              "WhenOpened": "2024-11-28T11:19:09.272Z",
+              "EditorCaption": ""
             }
           ]
         }

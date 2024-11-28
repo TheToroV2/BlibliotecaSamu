@@ -1,4 +1,4 @@
-﻿using lib_entidades;
+﻿using lib_entidades.Modelos;
 using lib_repositorios.Interfaces;
 using System.Linq.Expressions;
 
@@ -13,6 +13,10 @@ namespace lib_repositorios.Implementaciones
             this.conexion = conexion;
         }
 
+        public void Configurar(string string_conexion)
+        {
+            this.conexion!.StringConnection = string_conexion;
+        }
         public List<Personas> Listar()
         {
             return conexion!.Listar<Personas>();

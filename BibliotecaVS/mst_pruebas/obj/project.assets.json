@@ -915,15 +915,15 @@
           "build/net6.0/MSTest.TestFramework.targets": {}
         }
       },
-      "Newtonsoft.Json/13.0.1": {
+      "Newtonsoft.Json/13.0.3": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
             "related": ".xml"
           }
         }
@@ -1392,13 +1392,27 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "lib_entidades": "1.0.0"
+          "lib_entidades": "1.0.0",
+          "lib_utilidades": "1.0.0"
         },
         "compile": {
           "bin/placeholder/lib_repositorios.dll": {}
         },
         "runtime": {
           "bin/placeholder/lib_repositorios.dll": {}
+        }
+      },
+      "lib_utilidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "compile": {
+          "bin/placeholder/lib_utilidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/lib_utilidades.dll": {}
         }
       }
     }
@@ -2823,14 +2837,15 @@
         "mstest.testframework.nuspec"
       ]
     },
-    "Newtonsoft.Json/13.0.1": {
-      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
       "type": "package",
-      "path": "newtonsoft.json/13.0.1",
+      "path": "newtonsoft.json/13.0.3",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.md",
+        "README.md",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
         "lib/net35/Newtonsoft.Json.dll",
@@ -2839,13 +2854,15 @@
         "lib/net40/Newtonsoft.Json.xml",
         "lib/net45/Newtonsoft.Json.dll",
         "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
         "lib/netstandard1.0/Newtonsoft.Json.dll",
         "lib/netstandard1.0/Newtonsoft.Json.xml",
         "lib/netstandard1.3/Newtonsoft.Json.dll",
         "lib/netstandard1.3/Newtonsoft.Json.xml",
         "lib/netstandard2.0/Newtonsoft.Json.dll",
         "lib/netstandard2.0/Newtonsoft.Json.xml",
-        "newtonsoft.json.13.0.1.nupkg.sha512",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
@@ -3758,6 +3775,11 @@
       "type": "project",
       "path": "../lib_repositorios/lib_repositorios.csproj",
       "msbuildProject": "../lib_repositorios/lib_repositorios.csproj"
+    },
+    "lib_utilidades/1.0.0": {
+      "type": "project",
+      "path": "../lib_utilidades/lib_utilidades.csproj",
+      "msbuildProject": "../lib_utilidades/lib_utilidades.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3777,11 +3799,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\mst_pruebas\\mst_pruebas.csproj",
+      "projectUniqueName": "C:\\Users\\Samuel\\Desktop\\BibliotecaSamu\\BlibliotecaSamu\\BibliotecaVS\\mst_pruebas\\mst_pruebas.csproj",
       "projectName": "mst_pruebas",
-      "projectPath": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\mst_pruebas\\mst_pruebas.csproj",
+      "projectPath": "C:\\Users\\Samuel\\Desktop\\BibliotecaSamu\\BlibliotecaSamu\\BibliotecaVS\\mst_pruebas\\mst_pruebas.csproj",
       "packagesPath": "C:\\Users\\Samuel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\mst_pruebas\\obj\\",
+      "outputPath": "C:\\Users\\Samuel\\Desktop\\BibliotecaSamu\\BlibliotecaSamu\\BibliotecaVS\\mst_pruebas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Samuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3799,11 +3821,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_entidades\\lib_entidades.csproj": {
-              "projectPath": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_entidades\\lib_entidades.csproj"
+            "C:\\Users\\Samuel\\Desktop\\BibliotecaSamu\\BlibliotecaSamu\\BibliotecaVS\\lib_entidades\\lib_entidades.csproj": {
+              "projectPath": "C:\\Users\\Samuel\\Desktop\\BibliotecaSamu\\BlibliotecaSamu\\BibliotecaVS\\lib_entidades\\lib_entidades.csproj"
             },
-            "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_repositorios\\lib_repositorios.csproj": {
-              "projectPath": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_repositorios\\lib_repositorios.csproj"
+            "C:\\Users\\Samuel\\Desktop\\BibliotecaSamu\\BlibliotecaSamu\\BibliotecaVS\\lib_repositorios\\lib_repositorios.csproj": {
+              "projectPath": "C:\\Users\\Samuel\\Desktop\\BibliotecaSamu\\BlibliotecaSamu\\BibliotecaVS\\lib_repositorios\\lib_repositorios.csproj"
             }
           }
         }

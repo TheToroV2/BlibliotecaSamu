@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iFryoJB0c+M=",
+  "dgSpecHash": "+gI/6C2lBKs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Samuel\\Desktop\\Grupo 6 - 8 Biblioteca\\Biblioteca\\Biblioteca\\BibliotecaVS\\lib_entidades\\lib_entidades.csproj",
+  "projectFilePath": "C:\\Users\\Samuel\\Desktop\\BibliotecaSamu\\BlibliotecaSamu\\BibliotecaVS\\lib_entidades\\lib_entidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Samuel\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Samuel\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
